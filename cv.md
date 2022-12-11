@@ -2,7 +2,7 @@
 
 ## Contacts
 * **Location:** Minsk, Belarus
-* **Phone::** +375 29 111-11-11
+* **Phone:** +375 29 111-11-11
 * **E-mail:** mars.bntu@gmail.com
 * **GitHub:** Mars-Bel
 * **Discord:** Mila Pi (@Mars-Bel)
